@@ -2,6 +2,7 @@
 Lab 7 activity by Kane Paul A. Mari. Made for Sir Jamie Eduardo Rosal.
 
 SAMPLE OUTPUT 1
+--------------------------------------------------------------------
 Hello and welcome to KP's project!
 
 Basic Arithmetic Calculator.
@@ -28,7 +29,7 @@ The sum of all the 4 numbers of the array is: 10
 
 Enter a number to check if it is prime or not: 5
 5 being a prime number is: true.
-------------------------------------------------------------------------
+
 BUILD SUCCESS
 ------------------------------------------------------------------------
 Total time:  17.616 s
@@ -36,7 +37,7 @@ Finished at: 2025-10-29T14:45:24+08:00
 ------------------------------------------------------------------------
 
 SAMPLE OUTPUT 2
-
+------------------------------------------------------------------------
 Hello and welcome to KP's project!
 
 Basic Arithmetic Calculator.
@@ -63,11 +64,11 @@ Enter number: 3
 
 The sum of all the 6 numbers of the array is: 70
 
-**Enter a number to check if it is prime or not: 6
+Enter a number to check if it is prime or not: 6
 6 being a prime number is: false.
-------------------------------------------------------------------------
+
 BUILD SUCCESS
-------------------------------------------------------------------------
+------------------------------------------------
 Total time:  20.007 s
 Finished at: 2025-10-29T14:44:06+08:00
-------------------------------------------------------------------------**
+------------------------------------------------
