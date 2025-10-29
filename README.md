@@ -1,5 +1,4 @@
-# MethodsLab_Mari_KanePaul
-Lab 7 activity by Kane Paul A. Mari. Made for Sir Jamie Eduardo Rosal.
+# Sample Outputs
 
 SAMPLE OUTPUT 1
 --------------------------------------------------------------------
