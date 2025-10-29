@@ -31,10 +31,9 @@ Enter a number to check if it is prime or not: 5
 5 being a prime number is: true.
 
 BUILD SUCCESS
-------------------------------------------------------------------------
 Total time:  17.616 s
 Finished at: 2025-10-29T14:45:24+08:00
-------------------------------------------------------------------------
+
 
 SAMPLE OUTPUT 2
 ------------------------------------------------------------------------
@@ -68,7 +67,5 @@ Enter a number to check if it is prime or not: 6
 6 being a prime number is: false.
 
 BUILD SUCCESS
-------------------------------------------------
 Total time:  20.007 s
 Finished at: 2025-10-29T14:44:06+08:00
-------------------------------------------------
